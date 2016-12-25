@@ -76,7 +76,7 @@ header-includes:
 \vspace*{\fill}
 
 
-Esta é uma reedição da dissertação original em \LaTeX  com Pandoc segundo as instruções do [link](https://lf-araujo.github.io/posts/simplifying). O material original pode ser encontrado na biblioteca da Universidade Estadual de Campinas no [link](http://www.bibliotecadigital.unicamp.br/document/?code=000909546&opt=4). Exceto pela retirada das epígrafes, não houve modificação de conteúdo.
+Esta é uma reedição da dissertação original em \LaTeX com Pandoc segundo as instruções do [link](https://lf-araujo.github.io/posts/simplifying). O material original pode ser encontrado na biblioteca da Universidade Estadual de Campinas no [link](http://www.bibliotecadigital.unicamp.br/document/?code=000909546&opt=4). Exceto pela retirada das epígrafes, não houve modificação de conteúdo.
 
 A dissertação pode ser citada como / It can be cited as: 
 
